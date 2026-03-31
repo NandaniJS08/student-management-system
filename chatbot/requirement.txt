@@ -6,3 +6,5 @@ python-dotenv
 pydantic
 chromadb
 sentence-transformers
+httpx
+mem0
